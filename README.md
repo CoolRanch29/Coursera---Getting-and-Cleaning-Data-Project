@@ -1,5 +1,6 @@
 # Coursera---Getting-and-Cleaning-Data-Project
 run_analysis.R is pretty straightforward.  Here's how it works:
+
 1. Reads in X (the feature dataframe) for both the training and testing data.
 2. Uses rbind to comine the testing and training data.
 3. Reads in the list of features to use as column labels.
